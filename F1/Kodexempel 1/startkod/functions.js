@@ -6,3 +6,4 @@ window.onload = function() {
 document.write("<b>" + name + ": " + text + "</b>")
     }
 }
+
